@@ -1,0 +1,60 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(29, 26, 26);
+}
+
+h1 a {
+color: aliceblue;
+}
+
+ul {
+    list-style: none;
+}
+
+.content {
+    text-align: left;
+    padding: 100px 20px;
+    background-color: #16100c;
+}
+
+nav li i {
+    color: aliceblue;
+}
+
+h4 {
+    font-size: 48px;
+    margin: 3px;
+    color: orangered;
+}
+
+h3 {
+    color: white;
+}
+
+.icons {
+    display: flex;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-bottom: 90px;
+}
+
+.social {
+    text-align: left;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.fab {
+    color: black;
+    padding: 0 8px;
+    margin-top: 10px;
+}
+
+.fa-bars {
+    color: white;
+    padding-right: 10px;
+}
