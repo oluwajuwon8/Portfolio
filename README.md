@@ -12,10 +12,10 @@
 - CSS STYLE
 
 ### setup 
-To get this project in you local machine, follow the following steps:
+To get this project in you local machine, follow the steps below:
 - Open terminal 
-- Clone ...
-- Cd in project folder
+- copy the code url
+- Clone into your local machine
 - Run the project in you browser 
 - Inspect it to check the look in mobile format.
 

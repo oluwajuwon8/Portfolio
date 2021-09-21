@@ -29,27 +29,24 @@ h4 {
   color: orangered;
 }
 
-h3 {
+p {
   color: white;
+}
+
+.Dev {
+  font-size: 30px;
 }
 
 .icons {
   display: flex;
   font-weight: bold;
   font-size: 30px;
-  margin-left: 20px;
+  margin-left: -30px;
   margin-bottom: 90px;
 }
 
-.social {
-  text-align: left;
-  font-size: 40px;
-  margin-top: 50px;
-  margin-left: 20px;
-}
-
 .fab {
-  color: black;
+  color: white;
   padding: 0 8px;
   margin-top: 10px;
 }
@@ -57,4 +54,11 @@ h3 {
 .fa-bars {
   color: white;
   padding-right: 10px;
+}
+
+#background {
+  height: 250px;
+  width: 500px;
+  margin-left: 148px;
+  margin-top: -190px;
 }
