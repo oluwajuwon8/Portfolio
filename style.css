@@ -141,7 +141,7 @@ p {
   font-family: Roboto, sans-serif;
 }
 
-#see {
+.see {
   background-color: #f06808;
   float: left;
   padding: 12px;
@@ -153,7 +153,7 @@ p {
   border-radius: 2px;
 }
 
-#see:hover {
+.see:hover {
   background-color: rgb(65, 65, 236);
 }
 
@@ -168,7 +168,7 @@ p {
   margin-top: 80px;
 }
 
-.about h1 {
+.about h2 {
   color: #f06808;
   font-size: 60px;
   text-align: left;
