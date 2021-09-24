@@ -90,16 +90,21 @@ p {
   font-family: Roboto, sans-serif;
 }
 
+#post {
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 24px;
+  color: #16100c;
+}
+
 .daily {
   color: #16100c;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
 }
 
 .picture {
-  color: #16100c;
   height: 53px;
-  margin-bottom: 20px;
   font-size: 20px;
   font-weight: 400;
   text-decoration: none;
